@@ -24,8 +24,6 @@ min=a[j];
 else
 {
 mid=(i+j)/2;
-Design and Analysis of Algorithms | Farin Khan - 60009210140
-March 7, 2023 2
 MaxMin(i,mid);
 max1=max;
 min1=min;
