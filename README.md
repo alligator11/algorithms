@@ -8,6 +8,7 @@ Greedy algorithms:
 - fractional knapsack problem
 - kruskal algorithm
 - prim's algorithm
+- [greedy florist problem](https://www.hackerrank.com/challenges/greedy-florist/problem) (hackerrank)
 
 Dynamic programming:
 - coin change algorithm
